@@ -1,4 +1,5 @@
-Some important sql queries and commands.
+# SQL COMMANDS AND SCRIPT
+Some important sql commands and scripts.
 
 ### To grant the permissions
 
